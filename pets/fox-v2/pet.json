@@ -1,0 +1,7 @@
+{
+  "id": "cloud-cat-demo-v2",
+  "displayName": "栗子 · 小赤狐 · WebP v2",
+  "description": "PocketPet original sample. A portable sprite atlas.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

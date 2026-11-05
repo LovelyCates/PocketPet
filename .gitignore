@@ -1,0 +1,36 @@
+/build/
+/out/
+/third_party/*.tar.gz
+/tools/*-reference.txt
+/VERIFICATION.md
+/*.zip
+*.obj
+*.lib
+*.exp
+*.idb
+*.log
+*.jsonl
+settings.json
+.vs/
+.env
+.env.*
+
+# Publish only the reviewed role packages; local imports stay local.
+/pets/*
+!/pets/cloud-cat-v1/
+!/pets/fox-v2/
+!/pets/denia/
+!/pets/wuwa-shorekeeper/
+!/pets/wuwa-yangyang/
+
+# Only the source components needed by the offline MSVC build.
+/third_party/libwebp-1.6.0/*
+!/third_party/libwebp-1.6.0/src/
+!/third_party/libwebp-1.6.0/sharpyuv/
+!/third_party/libwebp-1.6.0/COPYING
+!/third_party/libwebp-1.6.0/PATENTS
+!/third_party/libwebp-1.6.0/AUTHORS
+!/third_party/libwebp-1.6.0/README.md
+*.user
+*.pdb
+*.ilk

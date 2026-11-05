@@ -1,0 +1,7 @@
+{
+  "id": "cloud-cat-demo-v1",
+  "displayName": "糯米 · 云朵猫 · PNG v1",
+  "description": "PocketPet original sample. A portable sprite atlas.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.png"
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Denia is a Codex desktop pet based on the Wuthering Waves character 达妮娅 (Denia): a sleepy pink-haired bubble-magic girl with a gentle white normal form and a mischievous dark work form.",
+  "displayName": "达妮娅 (Denia)",
+  "id": "denia",
+  "spritesheetPath": "spritesheet.webp",
+  "cleanGreenEdges": true,
+  "collection": "鸣潮"
+}

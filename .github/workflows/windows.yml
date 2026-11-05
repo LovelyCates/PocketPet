@@ -1,0 +1,30 @@
+name: Windows build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Build and run tests
+        shell: pwsh
+        run: ./build.ps1 -Test
+      - name: Package portable app
+        shell: pwsh
+        run: ./package.ps1 -SkipBuild
+      - name: Upload portable build
+        uses: actions/upload-artifact@v7.0.2
+        with:
+          name: PocketPet-windows-x64
+          path: PocketPet-v*-win-x64.zip
+          if-no-files-found: error

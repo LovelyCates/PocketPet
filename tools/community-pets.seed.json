@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "pets": [
+    {
+      "id": "pokemon-pikachu",
+      "name": "皮卡丘",
+      "collection": "宝可梦",
+      "author": "Danny Nguyen / original sprite creators credited upstream",
+      "repository": "https://github.com/dnnyngyen/codex-pokepets",
+      "source": "https://github.com/dnnyngyen/codex-pokepets/tree/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/pikachu",
+      "commit": "3bff0e1def268a3504f9cba1bec467a5d901d20b",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/pikachu/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/pikachu/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-eevee",
+      "name": "伊布",
+      "collection": "宝可梦",
+      "author": "Danny Nguyen / original sprite creators credited upstream",
+      "repository": "https://github.com/dnnyngyen/codex-pokepets",
+      "source": "https://github.com/dnnyngyen/codex-pokepets/tree/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/eevee",
+      "commit": "3bff0e1def268a3504f9cba1bec467a5d901d20b",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/eevee/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/eevee/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-gengar",
+      "name": "耿鬼",
+      "collection": "宝可梦",
+      "author": "Danny Nguyen / original sprite creators credited upstream",
+      "repository": "https://github.com/dnnyngyen/codex-pokepets",
+      "source": "https://github.com/dnnyngyen/codex-pokepets/tree/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/gengar",
+      "commit": "3bff0e1def268a3504f9cba1bec467a5d901d20b",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/gengar/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/gengar/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-snorlax",
+      "name": "卡比兽",
+      "collection": "宝可梦",
+      "author": "Danny Nguyen / original sprite creators credited upstream",
+      "repository": "https://github.com/dnnyngyen/codex-pokepets",
+      "source": "https://github.com/dnnyngyen/codex-pokepets/tree/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/snorlax",
+      "commit": "3bff0e1def268a3504f9cba1bec467a5d901d20b",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/snorlax/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/snorlax/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-charmander",
+      "name": "小火龙",
+      "collection": "宝可梦",
+      "author": "Danny Nguyen / original sprite creators credited upstream",
+      "repository": "https://github.com/dnnyngyen/codex-pokepets",
+      "source": "https://github.com/dnnyngyen/codex-pokepets/tree/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/charmander",
+      "commit": "3bff0e1def268a3504f9cba1bec467a5d901d20b",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/charmander/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/charmander/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "pokemon-mimikyu-3d",
+      "name": "谜拟丘",
+      "collection": "宝可梦",
+      "author": "Danny Nguyen / original sprite creators credited upstream",
+      "repository": "https://github.com/dnnyngyen/codex-pokepets",
+      "source": "https://github.com/dnnyngyen/codex-pokepets/tree/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/mimikyu-3d",
+      "commit": "3bff0e1def268a3504f9cba1bec467a5d901d20b",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/mimikyu-3d/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/pets/mimikyu-3d/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/dnnyngyen/codex-pokepets/3bff0e1def268a3504f9cba1bec467a5d901d20b/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "genshin-furina",
+      "name": "芙宁娜",
+      "collection": "原神",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/furina",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/furina/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/furina/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "genshin-hu-tao",
+      "name": "胡桃",
+      "collection": "原神",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/hu-tao",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/hu-tao/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/hu-tao/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "genshin-ganyu",
+      "name": "甘雨",
+      "collection": "原神",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/ganyu",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/ganyu/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/ganyu/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "genshin-ayaka",
+      "name": "神里绫华",
+      "collection": "原神",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/ayaka",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/ayaka/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/ayaka/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "genshin-klee",
+      "name": "可莉",
+      "collection": "原神",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/klee",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/klee/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/klee/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "genshin-raiden",
+      "name": "雷电将军",
+      "collection": "原神",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/raiden",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/raiden/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/raiden/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "wuwa-phoebe",
+      "name": "菲比",
+      "collection": "鸣潮",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/phoebe",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/phoebe/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/phoebe/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "wuwa-zani",
+      "name": "赞妮",
+      "collection": "鸣潮",
+      "author": "Xin Chen / chenxin-dlut",
+      "repository": "https://github.com/chenxin-dlut/codex-anime-pets",
+      "source": "https://github.com/chenxin-dlut/codex-anime-pets/tree/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/zani",
+      "commit": "74e98a4a7f4ae65e5c4f908219e720a7d8e12d18",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/zani/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/pets/zani/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/chenxin-dlut/codex-anime-pets/74e98a4a7f4ae65e5c4f908219e720a7d8e12d18/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "wuwa-shorekeeper",
+      "name": "守岸人",
+      "collection": "鸣潮",
+      "author": "LianjinSe",
+      "repository": "https://github.com/LianjinSe/shorekeeper-pet",
+      "source": "https://github.com/LianjinSe/shorekeeper-pet/tree/29129739288ae5757a51e556c7f0e3a0ff481f90/",
+      "commit": "29129739288ae5757a51e556c7f0e3a0ff481f90",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/LianjinSe/shorekeeper-pet/29129739288ae5757a51e556c7f0e3a0ff481f90/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/LianjinSe/shorekeeper-pet/29129739288ae5757a51e556c7f0e3a0ff481f90/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/LianjinSe/shorekeeper-pet/29129739288ae5757a51e556c7f0e3a0ff481f90/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "wuwa-yangyang",
+      "name": "秧秧",
+      "collection": "鸣潮",
+      "author": "Yangyang Codex Pet by Kai527-1",
+      "repository": "https://github.com/Kai527-1/yangyang-codex-pet",
+      "source": "https://github.com/Kai527-1/yangyang-codex-pet/tree/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/",
+      "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+      "files": [
+        {
+          "name": "pet.json",
+          "url": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/pet.json"
+        },
+        {
+          "name": "spritesheet.webp",
+          "url": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/spritesheet.webp"
+        },
+        {
+          "name": "SOURCE-LICENSE.md",
+          "url": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/ASSET-LICENSE.md"
+        }
+      ]
+    }
+  ]
+}
